@@ -10,11 +10,11 @@
 
 さっそく設定タブのプラグインマネージャで Symbol Viewer プラグインを有効にしましょう！
 
-！[プラグイン設定]()
+！[プラグイン設定](https://github.com/hideki-masuoka/bericht/raw/main/assets/d20230402-kate-md-toc/Screenshot_20230402_170237.png)
 
 Symbol Viewerプラグイン**「Sorry, not supported yet!」**
 
-！[NOT SUPPORTED YET]()
+！[NOT SUPPORTED YET](https://github.com/hideki-masuoka/bericht/raw/main/assets/d20230402-kate-md-toc/Screenshot_20230402_170021.png)
 
 ## その時、あなたは...
 
@@ -28,11 +28,11 @@ makeしてもいい方、こちらのプラグインをmakeしてみてはいか
 
 これを、なんやかんやしてmakeしてインストールすると、プラグインマネージャに Index View プラグインの項目が追加されます。
 
-![Index Viewが追加された様子]()
+![Index Viewが追加された様子](https://github.com/hideki-masuoka/bericht/raw/main/assets/d20230402-kate-md-toc/Screenshot_20230402_170342.png)
 
 こうして有効にされたIndex Viewは、ツールビューのサイドバーに追加されIndex欄にTOCがドーーーン！！となります。
 
-![目次が表示されている様子]()
+![目次が表示されている様子](https://github.com/hideki-masuoka/bericht/raw/main/assets/d20230402-kate-md-toc/Screenshot_20230402_165938.png)
 
 どうぞお試し下さい。
 
@@ -58,20 +58,20 @@ makeしない方、こちらのLSP(language-server-protocol)をインストー�
 }
 ```
 
-![設定値入力例]()
+![設定値入力例](https://github.com/hideki-masuoka/bericht/raw/main/assets/d20230402-kate-md-toc/Screenshot_20230402_170533.png)
 
 そして、SaveしてKateを再起動してMarkdownファイルを開いたら、ほれどうじゃ！
 
-！[NOT SUPPORTED YET]()
+！[NOT SUPPORTED YET](https://github.com/hideki-masuoka/bericht/raw/main/assets/d20230402-kate-md-toc/Screenshot_20230402_170021.png)
 
 普通LSPを経由してSymbol Viewerに表示されるとおもうじゃないですか？
 でもよく見たら、Symbol Outlineの方に表示されていたので良かったです。
 
-![Symbol Outline に目次が表示されている様子]()
+![Symbol Outline に目次が表示されている様子](https://github.com/hideki-masuoka/bericht/raw/main/assets/d20230402-kate-md-toc/Screenshot_20230402_171906.png)
 
 あとはなんかファイル名の横にも目次が表示される機能も追加されます。
 
-![ファイル名の横に目次が表示されている様子]()
+![ファイル名の横に目次が表示されている様子](https://github.com/hideki-masuoka/bericht/raw/main/assets/d20230402-kate-md-toc/Screenshot_20230402_171323.png)
 
 ## 終わりに
 
