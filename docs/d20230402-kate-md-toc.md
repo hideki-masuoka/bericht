@@ -12,6 +12,8 @@
 
 ![プラグイン設定](https://github.com/hideki-masuoka/bericht/raw/main/assets/d20230402-kate-md-toc/Screenshot_20230402_170237.png)
 
+すると、こうです。
+
 Symbol Viewerプラグイン **「Sorry, not supported yet!」**
 
 ![NOT SUPPORTED YET](https://github.com/hideki-masuoka/bericht/raw/main/assets/d20230402-kate-md-toc/Screenshot_20230402_170021.png)
