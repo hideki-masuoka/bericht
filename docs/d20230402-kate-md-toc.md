@@ -10,11 +10,11 @@
 
 さっそく設定タブのプラグインマネージャで Symbol Viewer プラグインを有効にしましょう！
 
-！[プラグイン設定](https://github.com/hideki-masuoka/bericht/raw/main/assets/d20230402-kate-md-toc/Screenshot_20230402_170237.png)
+![プラグイン設定](https://github.com/hideki-masuoka/bericht/raw/main/assets/d20230402-kate-md-toc/Screenshot_20230402_170237.png)
 
-Symbol Viewerプラグイン**「Sorry, not supported yet!」**
+Symbol Viewerプラグイン **「Sorry, not supported yet!」**
 
-！[NOT SUPPORTED YET](https://github.com/hideki-masuoka/bericht/raw/main/assets/d20230402-kate-md-toc/Screenshot_20230402_170021.png)
+![NOT SUPPORTED YET](https://github.com/hideki-masuoka/bericht/raw/main/assets/d20230402-kate-md-toc/Screenshot_20230402_170021.png)
 
 ## その時、あなたは...
 
@@ -23,6 +23,8 @@ Symbol Viewerプラグイン**「Sorry, not supported yet!」**
 ### makeしてもいいよ
 
 makeしてもいい方、こちらのプラグインをmakeしてみてはいかがでしょうか？
+
+**KatePlugin-IndexView**
 
 [loh-tar/KatePlugin-IndexView: A fork from Kate's plugin SymbolViewer with a couple of improvements](https://github.com/loh-tar/KatePlugin-IndexView)
 
@@ -39,6 +41,8 @@ makeしてもいい方、こちらのプラグインをmakeしてみてはいか
 ### makeしないよ
 
 makeしない方、こちらのLSP(language-server-protocol)をインストールしてみてはいかがでしょうか？
+
+**marksman**
 
 [artempyanykh/marksman: Write Markdown with code assist and intelligence in the comfort of your favourite editor.](https://github.com/artempyanykh/marksman)
 
@@ -62,7 +66,7 @@ makeしない方、こちらのLSP(language-server-protocol)をインストー�
 
 そして、SaveしてKateを再起動してMarkdownファイルを開いたら、ほれどうじゃ！
 
-！[NOT SUPPORTED YET](https://github.com/hideki-masuoka/bericht/raw/main/assets/d20230402-kate-md-toc/Screenshot_20230402_170021.png)
+![NOT SUPPORTED YET](https://github.com/hideki-masuoka/bericht/raw/main/assets/d20230402-kate-md-toc/Screenshot_20230402_170021.png)
 
 普通LSPを経由してSymbol Viewerに表示されるとおもうじゃないですか？
 でもよく見たら、Symbol Outlineの方に表示されていたので良かったです。
